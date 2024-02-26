@@ -18,6 +18,9 @@
               </button>
           </div>
         </div>
+        <div class="w-full bg-gray-900 p-2 pl-4 text-white">
+          <h2 class="sm">All IN ONE CLOUD STORAGE</h2>
+        </div>
         <div class="sm:w sm:w-80 m-2 bg-gray-200" id="contacts-div">
             {{-- <div id="contact-card" class="contact-card p-1 bg-gray-50 mt-1 border-t-2 flex items-center gap-2">
                <span class="bg-white rounded-full p-2">
